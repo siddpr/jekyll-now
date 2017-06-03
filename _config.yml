@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+#dependencies
+gems:
+  - jekyll-sitemap
+
 # Name of your site (displayed in the header)
 name: Siddharthan Rajasekaran
 
